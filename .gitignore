@@ -1,0 +1,7 @@
+# Hidden folders
+.*/
+!.github/
+!.vscode/
+
+# Generated directories
+vendor/
